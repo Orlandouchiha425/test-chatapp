@@ -11,5 +11,5 @@ the file index.js contains socket io server and needs to connect to src. thats t
 
 
 
-![Image](../chat-app/Images/connections.png)
-![image2](../chat-app/Images/working%20example.png)
+![Image](/chat-app/Images/connections.png)
+![image2](/chat-app/Images/workingexample.png)
